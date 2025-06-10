@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a curious individual with a passion for exploring the intersection of technology, creativity, and learning. You'll often find me diving into coding projects, experimenting with music, or exploring the depths of virtual worlds.
+I am a UCI Software Engineering student with a passion for exploring the intersection of technology, creativity, and learning. You'll often find me diving into coding projects, experimenting with music, or exploring the depths of virtual worlds.
 
 **What I'm Currently Up To:**
 
@@ -20,7 +20,7 @@ I'm a curious individual with a passion for exploring the intersection of techno
 
 **Skills:**
 
-* **Languages:** JavaScript, Java, Python (beginner/intermediate)
-* **Frameworks/Libraries:** React, Material UI
-* **Tools:** Git, GitHub, VS Code, Logic Pro
+* **Languages:** JavaScript, TypeScript, Java, Python, C++
+* **Frameworks/Libraries:** React, Vite, Material UI
+* **Tools:** Git, GitHub, VS Code, Firebase, Google Cloud Platform
 * **Operating Systems:** macOS, Linux, Windows
