@@ -11,16 +11,17 @@ I am a UCI Software Engineering student with a passion for exploring the interse
 
 **My Interests Include:**
 
-* Web Development (React, general frontend)
+* Web Development (React, NodeJS)
+* Mobile Development (React Native)
 * Artificial Intelligence (especially its applications in creative fields)
 * Game Development and Modding (Minecraft, N64 emulation, exploring game mechanics)
-* Cloud Technologies (Google Cloud Platform)
+* Cloud Technologies (Google Cloud Platform, Oracle Cloud, Firebase)
 * Problem Solving and Algorithm Design
 * Learning new technologies and frameworks
 
 **Skills:**
 
 * **Languages:** JavaScript, TypeScript, Java, Python, C++
-* **Frameworks/Libraries:** React, Vite, Material UI
-* **Tools:** Git, GitHub, VS Code, Firebase, Google Cloud Platform
-* **Operating Systems:** macOS, Linux, Windows
+* **Frameworks/Libraries:** React, Vite, Material UI, React Native, Next.js
+* **Tools:** Git, GitHub, VS Code, Firebase, Google Cloud Platform, Oracle Cloud, Prisma
+* **Operating Systems:** macOS, Linux, Windows, iOS
